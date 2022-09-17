@@ -1,4 +1,4 @@
-package com.springbootexpert.controllers;
+package com.springbootexpert.rest.controller;
 
 import com.springbootexpert.domain.entity.Cliente;
 import com.springbootexpert.domain.repository.Clientes;
